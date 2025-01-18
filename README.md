@@ -9,6 +9,13 @@ Bu proje, Tableau panoları ve SQL sorguları kullanılarak gelir eğilimlerini 
 - 👥 User Segmentation by Age Group
   
 
+## 🖼️ 
+![Dashboard Ekran Görüntüsü](tableau_dashboard.png)
+
+
+
+
+
 ## Key Insights
 ### New MRR & New Paid Users
 Mart ve Nisan aylarında yeni MRR ve ödeme yapan kullanıcı sayılarında artış gözlemlendi. Kampanyaların etkisi olduğu düşünülen bu artış, yaz aylarında müşteri sadakati için fırsatlar sunabilir.
@@ -31,5 +38,7 @@ Nisan ayından itibaren churn kullanıcı sayısında artış gözlemlendi ve bu
 ### LT & LTV
 Haziran ayına kadar yüksek olan LT ve LTV, yaz sonrasında düşüş göstermiştir. Bu trend, kullanıcı sadakatine yönelik stratejik müdahaleler gerektiriyor.
 
+## 🌐 Tableau Public Linki
+Dashboard'ı incelemek için: [Tableau Public](https://public.tableau.com/app/profile/secil.bilgin/viz/Project2_17299404544860/Dashboard1)
 
 
